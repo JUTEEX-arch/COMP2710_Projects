@@ -2,6 +2,7 @@
 //project1_dzv0026_Vasin_Daniil.cpp
 // How to compile code: g++ project1_dzv0026_Vasin_Daniil.cpp
 // How to run code: ./a.out
+
 #include <iostream>
 #include <iomanip>
 using namespace std;
