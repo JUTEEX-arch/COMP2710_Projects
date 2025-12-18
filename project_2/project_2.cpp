@@ -1,6 +1,4 @@
-// Vasin Daniil
-// project2_dzv0026_Vasin_Daniil.cpp
-//  How to compile code: g++ project2_dzv0026_Vasin_Daniil.cpp
+//  How to compile code: g++ project_2.cpp
 //  How to run code: ./a.out
 #include <iostream>
 #include <stdlib.h>
@@ -289,7 +287,7 @@ int simulate_truel(bool strategy2)
 int main()
 {
     srand(time(0));
-    cout << "*** Welcome to Daniil's Truel of the Fates Simulator ***\n\n";
+    cout << "*** Welcome to Student X's Truel of the Fates Simulator ***\n\n";
     // calling the test drivers
     test_at_least_two_alive();
     test_aaron_shoots1();
@@ -371,6 +369,3 @@ int main()
     }
     return 0;
 }
-// Feedback: I have 0 previous experience with c++, so I'm spending lot's of time looking up the syntax for loops, field declaration etc and ask chatGPT for help
-// instead of actually thinking of a logic behind the project. The whatever Dr.Li is doing on a paper in class doesn't really help much
-// So if we could focus a bit more on how to actually write in c++, it would be great -- Vasin Daniil
