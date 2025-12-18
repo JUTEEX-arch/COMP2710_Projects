@@ -1,6 +1,4 @@
-// Vasin Daniil
-// project3_dzv0026_Vasin_Daniil.cpp
-//  How to compile code: g++ project3_dzv0026_Vasin_Daniil.cpp
+//  How to compile code: g++ project_3.cpp
 //  How to run code: ./a.out
 #include <fstream>
 #include <iostream>
@@ -73,7 +71,7 @@ bool checkFileForValidNumbers(const std::string &filename)
 
     return true;
 }
-// ChatGPT bs ends here, the rest of the code is mine
+// ChatGPT bullshit ends here, the rest of the code is mine
 
 // methods for mean and meadian
 double mean(const vector<double> &v)
@@ -142,5 +140,3 @@ int main(int argc, char const *argv[])
     cout << "Median = " << median(values) << endl;
     return 0;
 }
-
-// Feedback: probably a bit personal problem, but I think that 2 weeks as not anough for a project, considering my very tight schedule
